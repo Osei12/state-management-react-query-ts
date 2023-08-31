@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": "bdbfef94-33f2-4402-b4dd-9b3664ac5743",
+      "title": "Go for lunch update twice",
+      "body": "I will eat beans and plantain for lunch today"
+    },
+    {
+      "id": "5b687ee8-486d-4b0d-ad1b-290c257f5bb0",
+      "title": "Post Title Two",
+      "body": "This is my new post"
+    }
+  ]
+}
